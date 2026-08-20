@@ -1,0 +1,6 @@
+{
+  "name": "Customer Support Assistant",
+  "description": "Professional AI customer support assistant powered by Gemini with FLAS framework, step-by-step troubleshooting, order lookup, and escalation routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
